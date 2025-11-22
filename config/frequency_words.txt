@@ -14,6 +14,8 @@ chatgpt
 openai
 meta
 +ai
+!广告
+!培训
 
 特朗普
 高市早苗
@@ -23,6 +25,8 @@ DeepSeek
 华为
 字节
 +ai
+!广告
+!培训
 
 算力芯片
 光刻机
